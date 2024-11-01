@@ -137,8 +137,8 @@ export default function Home() {
       
       <Stack
         direction={'column'}
-        width= {{xs:"50%", sm:"40%"}}  //width by screene
-        height="700px"
+        width= {{xs:"95%", sm:"40%"}}  //width by screene
+        height="80%"
         border="1px solid white"
         bgcolor={'white'}
         p={2}
